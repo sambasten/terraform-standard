@@ -1,0 +1,5 @@
+#Local .terraform directories
+.terraform/
+
+# Hide history files matching a power of 2
+.terraform.lock.hcl
